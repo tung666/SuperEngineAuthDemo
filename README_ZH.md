@@ -113,5 +113,6 @@ class SchemeActivity : AppCompatActivity() {
 如果您的项目中开启了混淆配置，请在您的配置文件中添加如下语句；
 
 ```
--keepclasseswithmembernames class com.superengine.auth.sdk.** { *; }
+-keep class com.superengine.auth.sdk.** { *; }
+-keep interface com.superengine.auth.sdk.** { *; }
 ```
