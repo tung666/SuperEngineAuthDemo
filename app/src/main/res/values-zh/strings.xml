@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="custom_authorization">自定义认证界面</string>
+    <string name="custom_auth_view">自定义认证View, 匹配您的页面风格</string>
+    <string name="authing">正在认证...</string>
+
+</resources> 

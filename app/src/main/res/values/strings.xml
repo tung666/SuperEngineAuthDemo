@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">SupenEngineAuthDemo</string>
+
+    <string name="custom_authorization">Custom Authorization</string>
+    <string name="custom_auth_view">Customize the authentication View to match your page style</string>
+    <string name="authing">Authenticating...</string>
+
+</resources>
